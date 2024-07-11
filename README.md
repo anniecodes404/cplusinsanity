@@ -4,7 +4,7 @@
 - I'm a front end web developer. My current language set is CSS and JavaScript.
 - I'm currently reading the Time Chain series and I'm on Book Three atm.
 - I have two cats and a husky.
-- I am legally obligated to announce that I follow a vegan diet. 🌿 Mainly focused on erradicating all the potatoes. 
+- I am legally obligated to announce that I follow a vegatarian diet. 🌿 Mainly focused on erradicating all the potatoes. 
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@adnerdable47910/30-nites-of-code)  
